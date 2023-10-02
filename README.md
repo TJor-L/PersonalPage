@@ -1,6 +1,17 @@
 # Jekyll-Uno with Projects as Timeline
 A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
 
+
+## How to update
+
+
+```bash
+
+jekyll build
+sudo systemctl reload nginx
+sudo systemctl restart nginx
+```
+
 ## How does is look
 [Demo](https://www.zuehlke.cloud/)
 ![Screenshot](screenshot-overview.png)

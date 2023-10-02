@@ -1,22 +1,22 @@
 # Site settings
-title: Thomas Zühlke
+title: Dijkstra Liu
 description: 'Business Card Page'
-url: 'https://www.zuehlke.cloud'
+url: 'www.cnblogs.com/dijkstra2003'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/Dijkstra.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: 'df93115788.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: thomas@zuehlke.cloud
-  mastodon: tzuehlke@mstdn.social
-  twitter_username: thomzuehlke
+  name: 'Dijkstra Liu'
+  email: l.tingjun@wustl.edu
+  mastodon: 
+  twitter_username: 
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  TJor-L
+  linkedin_username:  'tingjun-liu-2a541127b'
+  meetup_name: 
 
 # Build settings
 destination: _site
